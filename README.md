@@ -1,6 +1,6 @@
 # Portafolio Web
 
-Este es un portafolio personal desarrollado con HTML, CSS y JavaScript para mostrar proyectos y habilidades.
+Este es un portafolio básico personal desarrollado con HTML, CSS y JavaScript.
 
 ## Índice
 - [Descripción](#descripción)
@@ -9,7 +9,6 @@ Este es un portafolio personal desarrollado con HTML, CSS y JavaScript para most
 - [Uso](#uso)
 - [Tecnologías](#tecnologías)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 - [Contacto](#contacto)
 
 ## Descripción
@@ -36,14 +35,11 @@ Abre el archivo `index.html` en tu navegador para ver el portafolio.
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para darme tips para mejorar en mi codificación y diseño.
+Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para darme tips en la mejora en mi forma de codificación y diseño.
 
-## Licencia
-
-Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ## Contacto
 
 - Nombre: César Eduardo García Dalisay
-- Email: correo@ejemplo.com
-- GitHub: [Tu Usuario](https://github.com/usuario)
+- Email: cesartrbj@gmail.com
+- GitHub: Cethfisto https://github.com/Cethfisto
