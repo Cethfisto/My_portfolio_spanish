@@ -79,7 +79,10 @@ nav ul li a {
 
 .proyecto img {
     width: 100%;
+    height: 200px;
     border-radius: 5px;
+    object-fit: cover; /*La imagen cubre el espacio sin deformarse*/
+    object-position: center; /* Centra la foto dentro del contenedor*/
 }
 
 /* Sección Contacto */
@@ -169,6 +172,10 @@ footer {
         grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     }
 
+    .proyecto img {
+        height: 150px;
+    }
+
     .contacto .container{
         text-align: center;
     }
@@ -195,6 +202,10 @@ footer {
 
     .proyecto{
         padding: 15px;
+    }
+
+    .proyecto img {
+        height: 120px;
     }
 
     .contacto p{
