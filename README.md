@@ -5,7 +5,6 @@ Este es un portafolio básico personal desarrollado con HTML, CSS y JavaScript.
 ## Índice
 - [Descripción](#descripción)
 - [Características](#características)
-- [Instalación](#instalación)
 - [Uso](#uso)
 - [Tecnologías](#tecnologías)
 - [Contribuciones](#contribuciones)
