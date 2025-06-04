@@ -24,7 +24,7 @@ Este portafolio permite mostrar mis proyectos personales, experiencia y habilida
 
 ## Uso
 
-Abre el archivo `index.html` en tu navegador para ver el portafolio.
+Abre el archivo `index.html` en tu navegador para ver el portfolio. Para que se vea correctamente el portfolio hay que descargar todos los archivos.
 
 ## Tecnologías
 
